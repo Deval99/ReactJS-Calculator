@@ -1,0 +1,14 @@
+html{
+  background-color: #C0C0C0;
+}
+.maindiv{
+  width: fit-content;
+  margin: auto;
+  background-color: #B0B0B0;
+  border-color: blue;
+  border-width: 10px;
+}
+.numbtn{
+  width: 100px;
+  margin: 1.5px;
+}
